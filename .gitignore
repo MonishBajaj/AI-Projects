@@ -1,24 +1,27 @@
-# # Python-generated files
-# __pycache__/
-# *.py[oc]
-# build/
-# dist/
-# wheels/
-# *.egg-info
-
-# # Virtual environments
-# .env
-# .env example
-# venv/
-# *.pyc
-
 # Python-generated files
 __pycache__/
 *.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
 
 # Virtual environments
 venv/
+.venv
 .env
 .env example
 *.pyc
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
