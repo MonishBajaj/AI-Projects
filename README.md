@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# C-practice
-=======
+
 # 🛠️ CoddyHelper
 
 **Coder Buddy** is an AI-powered coding assistant built with [LangGraph](https://github.com/langchain-ai/langgraph).  
